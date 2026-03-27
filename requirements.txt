@@ -1,0 +1,5 @@
+pageindex
+ollama
+requests
+ipykernel
+dotenv
